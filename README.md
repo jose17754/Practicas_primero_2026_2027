@@ -1,2 +1,2 @@
-# Practicas_primero_2026_2027
+# Teo_Prog_U1
 Practicas de primer ciclo de computacion
